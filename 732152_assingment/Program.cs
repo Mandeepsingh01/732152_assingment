@@ -9,7 +9,7 @@ namespace _732152_assingment
     class Program
     {
         static void Main(string[] args)
-        {
+        { int i= 5; 
         }
     }
 }
